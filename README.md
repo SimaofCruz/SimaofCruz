@@ -25,11 +25,4 @@ Feel free to reach out to me through any of the platforms below:
 
 ---
 
-### 📈 Coding Stats
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SimaofCruz&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimaofCruz&layout=compact&theme=radical&hide=html,css" />
-</p>
-
----
